@@ -1,0 +1,8 @@
+F:\Caphyon\Crates\Crates\bin\Debug\Crates.exe.config
+F:\Caphyon\Crates\Crates\bin\Debug\Crates.exe
+F:\Caphyon\Crates\Crates\bin\Debug\Crates.pdb
+F:\Caphyon\Crates\Crates\obj\Debug\Crates.csproj.AssemblyReference.cache
+F:\Caphyon\Crates\Crates\obj\Debug\Crates.csproj.SuggestedBindingRedirects.cache
+F:\Caphyon\Crates\Crates\obj\Debug\Crates.csproj.CoreCompileInputs.cache
+F:\Caphyon\Crates\Crates\obj\Debug\Crates.exe
+F:\Caphyon\Crates\Crates\obj\Debug\Crates.pdb
